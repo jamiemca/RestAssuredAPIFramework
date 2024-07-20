@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="4.39" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validating Place API's" name="Verify if place is succesfully deledeted using Delete Place API" time="4.257">
+<system-out><![CDATA[
+Given the Delete Place payload is created...................................passed
+When the "DeletePlaceAPI" is called with a "POST" http request..............passed
+Then the API call is successful.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
